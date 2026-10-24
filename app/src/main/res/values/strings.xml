@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">RoadSense</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_tagline">Kepedulian Anda, Keselamatan Bersama</string>
+
+    <!-- Home Fragment -->
+    <string name="home_greeting">Halo,</string>
+    <string name="home_username">Sahabat RoadSense</string>
+    <string name="home_hero_title">Perjalanan Aman\nMulai Dari Sini</string>
+    <string name="home_hero_desc">Kontribusi kecil Anda membantu menciptakan jalan yang lebih baik untuk kita semua.</string>
+    <string name="home_btn_start">MULAI LAPOR</string>
+
+    <string name="home_guide_title">Cara Penggunaan</string>
+    <string name="home_guide_step1">Pilih menu \"Mulai Lapor\"</string>
+    <string name="home_guide_step2">Arahkan kamera ke jalan atau ambil dari galeri</string>
+    <string name="home_guide_step3">AI akan mendeteksi tingkat kerusakan secara otomatis</string>
+    <string name="home_guide_step4">Tambahkan keterangan dan kirim laporan untuk diproses</string>
+    <string name="home_menu_title">Pusat Informasi</string>
+    <string name="home_menu_about_title">Tentang Aplikasi</string>
+    <string name="home_menu_about_desc">Panduan &amp; Visi RoadSense AI</string>
+
+    <!-- About Fragment -->
+    <string name="about_app_name">RoadSense AI</string>
+    <string name="about_version">Versi 2.0.0 (Public Release)</string>
+    <string name="about_description">RoadSense AI adalah platform partisipasi masyarakat yang menggunakan kecerdasan buatan (Artificial Intelligence) untuk mendeteksi kondisi jalan secara otomatis.\n\nAplikasi ini hadir untuk mempermudah pelaporan dan mempercepat proses identifikasi infrastruktur jalan demi kenyamanan dan keselamatan bersama.</string>
+    <string name="about_technology_title">Teknologi</string>
+    <string name="about_tech_mobilenet">MobileNetV2 Neural Network</string>
+    <string name="about_tech_tensorflow">TensorFlow Lite Real-time Inference</string>
+    <string name="about_tech_gps">GPS Geolocation Mapping</string>
+    <string name="about_tech_cloud">Cloud Telegram Gateway</string>
+    <string name="about_btn_back">Kembali ke Beranda</string>
+
+    <!-- Guide/Instruction Section -->
+    <string name="about_guide_title">Panduan Pengambilan Foto</string>
+    <string name="about_guide_desc">Untuk mendapatkan akurasi AI yang maksimal, mohon perhatikan cara pengambilan gambar berikut:</string>
+    <string name="about_guide_point1"><b>Cahaya Terang:</b> Pastikan area jalan terlihat jelas (siang hari).</string>
+    <string name="about_guide_point2"><b>Sudut Pandang:</b> Arahkan kamera menghadap ke permukaan jalan (45-60 derajat).</string>
+    <string name="about_guide_point3"><b>Fokus Objek:</b> Pastikan lubang atau retakan berada di tengah frame.</string>
+    <string name="about_guide_point4"><b>Hindari Halangan:</b> Pastikan tidak ada kendaraan atau orang yang menutupi kerusakan.</string>
+
+    <string name="about_classes_title">Kategori Kerusakan</string>
+    <string name="about_class_baik"><b>Jalan Baik:</b> Permukaan rata, tidak ada lubang/retak.</string>
+    <string name="about_class_ringan"><b>Rusak Ringan:</b> Terdapat retakan rambut atau lubang kecil dangkal.</string>
+    <string name="about_class_berat"><b>Rusak Berat:</b> Lubang besar, dalam, atau retakan buaya yang luas.</string>
+    <string name="about_class_tanah"><b>Belum Diaspal:</b> Kondisi jalan masih berupa tanah atau kerikil.</string>
+
+</resources>

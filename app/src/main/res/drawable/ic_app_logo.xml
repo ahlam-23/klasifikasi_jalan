@@ -1,0 +1,64 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Background Circle -->
+    <path
+        android:pathData="M60,60m-55,0a55,55 0,1 1,110 0a55,55 0,1 1,-110 0">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="135"
+                android:endColor="#0F172A"
+                android:startColor="#3B82F6"
+                android:type="linear" />
+        </aapt:attr>
+    </path>
+
+    <!-- Stylized Road / Path -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,90L80,90L72,40L48,40Z"
+        android:fillAlpha="0.3" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,90L62,90L61,75L59,75Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M59.2,65L60.8,65L60.5,55L59.5,55Z" />
+
+    <!-- AI/Scan Lens -->
+    <path
+        android:strokeWidth="3"
+        android:pathData="M35,45L35,35L45,35"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <path
+        android:strokeWidth="3"
+        android:pathData="M75,35L85,35L85,45"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <path
+        android:strokeWidth="3"
+        android:pathData="M85,75L85,85L75,85"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <path
+        android:strokeWidth="3"
+        android:pathData="M45,85L35,85L35,75"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Center Dot (Scanning Point) -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M60,45m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+
+</vector>

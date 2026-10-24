@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Skema Warna Premium & Modern -->
+    <color name="primary_blue">#0F172A</color>
+    <color name="accent_blue">#3B82F6</color>
+    <color name="accent_blue_light">#60A5FA</color>
+    <color name="accent_blue_soft">#EFF6FF</color>
+    <color name="success_green">#10B981</color>
+    <color name="success_green_soft">#ECFDF5</color>
+    <color name="warning_amber">#F59E0B</color>
+    <color name="warning_amber_soft">#FFFBEB</color>
+    <color name="surface_light">#F8FAFC</color>
+    <color name="surface_elevated">#FFFFFF</color>
+    <color name="text_main">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_tertiary">#94A3B8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_15">#26FFFFFF</color>
+    <color name="black_solid">#020617</color>
+    <color name="gray_200">#E2E8F0</color>
+    <color name="gray_100">#F1F5F9</color>
+    <color name="card_gradient_start">#3B82F6</color>
+    <color name="card_gradient_end">#1D4ED8</color>
+    <color name="splash_gradient_start">#0F172A</color>
+    <color name="splash_gradient_end">#1E40AF</color>
+    <color name="overlay_dark">#66000000</color>
+    <color name="ripple_light">#1A3B82F6</color>
+
+</resources>
